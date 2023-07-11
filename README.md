@@ -1,6 +1,6 @@
 # Artboard API
 
-artboard est un projet sur la vente des oeuvres d'art de tableau. C'est un projet de test  de la technologie next.js 13.
+artboard est un projet sur la vente des oeuvres d'art de tableau
 
 ## Demarrer le projet
 
